@@ -15,7 +15,7 @@
   - Minor:
     - Mechanical Engineering, Spl. Green Technology
 
-- <b>University of Waterloo - AFM</b>
+- <b>University of Waterloo - AFM (Data Analytics)</b>
   - Accounting and Financial Management, Co-op
     - Presidents Award Scholarship ($2,000 CAD)
 
