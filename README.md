@@ -17,7 +17,7 @@
 
 - <b>University of Waterloo - AFM (Data Analytics)</b>
   - Accounting and Financial Management, Co-op
-    - Presidents Award Scholarship ($2,000 CAD)
+    - Presidents Scholarship ($2,000 CAD)
 
 <h2>📈 CGPA: 8.9</h2>
 
