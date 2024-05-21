@@ -25,11 +25,11 @@
 
 <h2>📩 Recommendation Letters</h2>
 
-- [Mechanical Design and Engineering Visualization](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20EVPR%20-%20Naveen%20Kumar.pdf)
 - [Advanced Communication Skills](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20LANG%20-%20Vararanjini.pdf)
 - [Discrete Mathematics & Graph Theory](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20MATH%20-%20Jadav%20Ganesh.pdf)
 - [Engineering Physics](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20PHYS%20-%20Venu%20Mankad.pdf)
 - [Venture Development](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20VEDC%20-%20G%20N%20P%20V%20Babu.pdf)
+- [Mechanical Design and Engineering Visualization](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20EVPR%20-%20Naveen%20Kumar.pdf)
 
 <h2>🦾 Technical Skills</h2>
 
