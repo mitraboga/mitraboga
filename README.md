@@ -24,7 +24,7 @@
 - <b>McGill, Desautels: Personal Finance Essentials</b> - Certified in Personal Finance by Desautels Faculty of Management
 
 <h2>📩 Recommendation Letters</h2>
-![Reccos](path_to_image_in_repository)
+- [Example Image](https://github.com/mitraboga/mitraboga/blob/main/Recommendation%20Letter%20-%20EVPR%20-%20Naveen%20Kumar.pdf)
 
 <h2>🦾 Technical Skills</h2>
 
