@@ -24,7 +24,7 @@
 - <b>McGill, Desautels: Personal Finance Essentials</b> - Certified in Personal Finance by Desautels Faculty of Management
 
 <h2>📩 Recommendation Letters</h2>
-<img src="Ufile:///C:/Users/Lenovo/Documents/GITAM%20CSE/Misc/Recommendation%20Letters/SEM%202/Recommendation%20Letter%20-%20Mathematics%20-%20Jadav%20Ganesh.pdf" alt="Discrete Mathematics">
+![Reccos](path_to_image_in_repository)
 
 <h2>🦾 Technical Skills</h2>
 
