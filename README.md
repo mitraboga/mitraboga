@@ -3,9 +3,9 @@
 <h2>🧑🏽‍💻 Projects:</h2>
 
 - <b>Python - Data Science Project: Gradebook Generator</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Final Project CS50P](https://github.com/mitraboga/GradebookGeneratorProject)
+- <b>Python - Data Analytics using Kaggle datasets</b>
+  - [CSEN1021 Final Project](https://github.com/mitraboga/KaggleDataAnalysis) 
 
 <h2>🎓 Education</h2>
 
