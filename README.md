@@ -24,6 +24,7 @@
 - <b>McGill, Desautels: Personal Finance Essentials</b> - Certified in Personal Finance by Desautels Faculty of Management
 
 <h2>📩 Recommendation Letters</h2>
+<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 <h2>🦾 Technical Skills</h2>
 
