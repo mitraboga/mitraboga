@@ -10,22 +10,21 @@
 <h2>🎓 Education</h2>
 
 - <b>Gandhi Institute of Technology and Management - B.Tech (CSE)</b>
-  - Major:
-    - Computer Science Engineering, Spl. Cybersecurity
-  - Minor:
-    - Mechanical Engineering, Spl. Green Technology
+  - Major: Computer Science Engineering, Spl. Data Science
+  - Minor: Mechanical Engineering, Spl. Mechanical Design
 
-- <b>University of Waterloo - AFM (Data Analytics)</b>
+- <b>University of Waterloo - AFM (Business Analysis)</b>
   - Accounting and Financial Management, Co-op
-    - Presidents Scholarship ($2,000 CAD)
 
 <h2>📈 CGPA: 8.9</h2>
 
 <h2>📜 Certifications</h2>
 
 - <b>Harvard CS50P</b> - Certified in Programming with Python 3.0
+- <b>McGill, Desautels: Personal Finance Essentials</b> - Certified in Personal Finance by Desautels Faculty of Management
 
 <h2>📩 Recommendation Letters</h2>
+![image](https://github.com/mitraboga/Portfolio/assets/153531118/ff2b24b0-d5d1-4b5d-ad18-e4061230e017)
 
 <h2>🦾 Technical Skills</h2>
 
