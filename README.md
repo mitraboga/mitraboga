@@ -6,7 +6,9 @@
   - [Final Project CS50P](https://github.com/mitraboga/GradebookGeneratorProject)
 - <b>Python - Data Analytics using Kaggle datasets</b>
   - [CSEN1021 Final Project](https://github.com/mitraboga/KaggleDataAnalysis)
-
+- <b>Fusion 360 - Porsche TurboFan Wheel Modelling</b>
+  - [MECH1011 Mechanical Design Project](https://github.com/mitraboga/KaggleDataAnalysis)
+    
 <h2>🎓 Education</h2>
 
 - <b>Gandhi Institute of Technology and Management - B.Tech (CSE)</b>
