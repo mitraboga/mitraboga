@@ -22,7 +22,7 @@
 
 <h2>📜 Certifications</h2>
 
-- <b>Harvard CS50P</b> - Certified in Programming with Python 3.0
+- <b>Harvard CS50P</b> - Certified in Programming with Python 3.0 by Harvard University
 - <b>McGill, Desautels: Personal Finance Essentials</b> - Certified in Personal Finance by Desautels Faculty of Management
 
 <h2>📩 Recommendation Letters</h2>
