@@ -7,7 +7,7 @@
 - <b>Python - Data Analytics using Kaggle datasets</b>
   - [CSEN1021 Final Project](https://github.com/mitraboga/KaggleDataAnalysis)
 - <b>Fusion 360 - Porsche TurboFan Wheel Modelling</b>
-  - [MECH1011 Mechanical Design Project](https://github.com/mitraboga/KaggleDataAnalysis)
+  - [MECH1011 Mechanical Design Project](https://github.com/mitraboga/PorscheTurboFan)
     
 <h2>🎓 Education</h2>
 
