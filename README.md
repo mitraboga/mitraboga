@@ -18,7 +18,7 @@
 - <b>University of Waterloo - AFM (Business Analysis)</b>
   - Accounting and Financial Management, Co-op
 
-<h2>📈 CGPA: 8.9</h2>
+<h2>📈 CGPA: 8.71</h2>
 
 <h2>📜 Certifications</h2>
 
