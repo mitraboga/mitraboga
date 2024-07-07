@@ -21,6 +21,7 @@
 - <b>Harvard CS50SQL</b> - Certified in Databases with SQL by Harvard University
 - <b>Autodesk CAD/CAM/CAE for Mechanical Engineering</b> - Specialized Certification by Autodesk
 - <b>McGill, Desautels: Personal Finance Essentials</b> - Certified in Personal Finance by Desautels Faculty of Management
+- <b>CFI Corporate Finance Fundementals</b> - Certified in Corporate Finance by Corporate Finance Institution
 
 <h2>📩 Recommendation Letters</h2>
 
