@@ -2,7 +2,7 @@
 
 <h2>🧑🏽‍💻 Projects are Pinned below 👇🏽</h2>
 
-- These Projects encompass my learning, curiosity and love for Engineering and Finance!
+- These Projects encompass my learning, curiosity and love for Business and Engineering!
 
 <h2>🎓 Education</h2>
 
