@@ -1,13 +1,6 @@
 <h1>Hi, I'm Mitra! <br/><a href="https://github.com/mitraboga">Computer Science Student</a>, <a href="https://www.linkedin.com/in/bogamitra/">Programmer</a>
 
-<h2>🧑🏽‍💻 Projects:</h2>
-
-- <b>Python - Data Science Project: Gradebook Generator</b>
-  - [Final Project CS50P](https://github.com/mitraboga/GradebookGeneratorProject)
-- <b>Python - Data Analytics using Kaggle datasets</b>
-  - [CSEN1021 Final Project](https://github.com/mitraboga/KaggleDataAnalysis)
-- <b>Fusion 360 - Porsche TurboFan Wheel Modelling</b>
-  - [MECH1011 Mechanical Design Project](https://github.com/mitraboga/PorscheTurboFan)
+<h2>🧑🏽‍💻 Projects are Pinned below 👇🏽</h2>
     
 <h2>🎓 Education</h2>
 
