@@ -1,7 +1,9 @@
 <h1>Hi, I'm Mitra! <br/><a href="https://github.com/mitraboga">Computer Science Student</a>, <a href="https://www.linkedin.com/in/bogamitra/">Programmer</a>
 
 <h2>🧑🏽‍💻 Projects are Pinned below 👇🏽</h2>
-    
+
+- These Projects encompass my learning, curiosity and love for Engineering and Finance!
+
 <h2>🎓 Education</h2>
 
 - <b>Gandhi Institute of Technology and Management - B.Tech (CSE)</b>
