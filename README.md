@@ -22,6 +22,7 @@
 - <b>[Autodesk CAD/CAM/CAE for Mechanical Engineering](https://github.com/mitraboga/Certifications/blob/main/Mechanical%20Engineering%20Specialization%20Certificate.pdf)</b> - Specialized Certification by Autodesk
 - <b>[McGill, Desautels: Personal Finance Essentials](https://github.com/mitraboga/Certifications/blob/main/McGill%20Personal%20Finance%20Essentials%20Certification%20-%20Desautels%20Faculty%20of%20Management%20-%20Mitra%20Boga.pdf)</b> - Certified in Personal Finance by Desautels Faculty of Management
 - <b>[CFI Corporate Finance Fundementals](https://github.com/mitraboga/Certifications/blob/main/CFI%20-%20Corporate%20Finance%20Fundamentals%20-%20Certification.pdf)</b> - Certified in Corporate Finance by Corporate Finance Institution
+- <b>[Wharton Business Foundations Specialization](https://github.com/mitraboga/Certifications/blob/main/Wharton%20Business%20Foundations%20Specialization%20Certificate%20-%20Mitra%20Boga.pdf)</b> - Specialized Certification by The Wharton School
 
 <h2>📩 Recommendation Letters</h2>
 
