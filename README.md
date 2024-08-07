@@ -8,7 +8,7 @@
 
 - <b>Gandhi Institute of Technology and Management - B.Tech (CSE)</b>
   - Major: Computer Science Engineering, Spl. Data Science
-  - Minor: Mechanical Engineering, Spl. Mechanical Design
+  - Minor: Mechanical Engineering
 
 - <b>University of Waterloo - AFM (Business Analysis)</b>
   - Accounting and Financial Management, Co-op
