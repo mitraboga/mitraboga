@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mitra! <br/><a href="https://github.com/mitraboga">Computer Science Major</a>, <a href="https://www.linkedin.com/in/bogamitra/">Programmer</a>
+<h1>Hi, I'm Mitra! <br/><a href="https://github.com/mitraboga">Computer Science Major</a>, <a href="https://www.linkedin.com/in/bogamitra/">Engineer</a>
 
 <h2>🧑🏽‍💻 Projects are Pinned below 📌</h2>
 
