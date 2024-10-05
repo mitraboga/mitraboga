@@ -31,7 +31,7 @@
 
 <h2>🦾 Technical Skills</h2>
 
-Python 3.0, Fusion360, SQL, MS Excel, R Studio, C, SketchUp, Power BI, PostgreSQL, AutoCAD, Java, JavaScript, DaVinci Resolve, Arduino
+Python 3.0, JavaScript, SQL, PostgreSQL, MS Excel, R Studio, C, C++, Power BI, Fusion360, Verilog, ReactJS, HTML, CSS
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
