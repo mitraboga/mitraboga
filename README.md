@@ -25,8 +25,7 @@
 
 <h2>📩 Recommendation Letters</h2>
 
-- [YEAR I](https://github.com/mitraboga/Recommendation_Letters/tree/YEAR-I)
-- [YEAR II](https://github.com/mitraboga/Recommendation_Letters/tree/YEAR-II) 
+- [Professor Testimonial/Recommendation Letters](https://github.com/mitraboga/Recommendation_Letters/tree/main)
 
 <h2>🦾 Technical Skills</h2>
 
