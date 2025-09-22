@@ -30,7 +30,7 @@
 
 <h2>🦾 Technical Skills</h2>
 
-Python 3.0, Java, C, C++, SQL, PostgreSQL, AWS, TypeScript, Terraform, Docker, R Studio, MS Excel, Power BI, Fusion360, ReactJS, HTML, CSS
+Python 3.0, Java, C, SQL, PostgreSQL, AWS, TypeScript, Terraform, Docker, R Studio, MS Excel, Power BI, Fusion360, ReactJS, HTML, CSS
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
