@@ -26,7 +26,7 @@
 
 <h2>📩 Recommendation Letters</h2>
 
-- [Professor Testimonial/Recommendation Letters](https://github.com/mitraboga/Recommendation_Letters/tree/main)
+- [Professor Testimonials/Recommendation Letters](https://github.com/mitraboga/Recommendation_Letters/tree/main)
 
 <h2>🦾 Technical Skills</h2>
 
