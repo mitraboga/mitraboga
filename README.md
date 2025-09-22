@@ -7,7 +7,7 @@
 <h2>🎓 Education</h2>
 
 - <b>Gandhi Institute of Technology and Management - B.Tech (CSE)</b>
-  - Major: Computer Science Engineering, Spl. Cybersecurity
+  - Major: Computer Science Engineering
   - Minor: Mechanical Engineering
 
 - <b>University of Waterloo - AFM (Business Analysis)</b>
