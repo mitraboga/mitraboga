@@ -17,7 +17,7 @@
 
 <h2>📜 Certifications</h2>
 
-- <b>[Harvard CS50X](https://github.com/mitraboga/Certifications/blob/main/CS50SQL%20-%20Certificate.pdf)</b> - Certified in Computer Science Fundementals by Harvard University
+- <b>[Harvard CS50x](https://github.com/mitraboga/Certifications/blob/main/CS50SQL%20-%20Certificate.pdf)</b> - Certified in Computer Science Fundementals by Harvard University
 - <b>[Harvard CS50P](https://github.com/mitraboga/Certifications/blob/main/Harvard%20CS50P%20Certificate.pdf)</b> - Certified in Programming with Python 3.0 by Harvard University
 - <b>[Harvard CS50SQL](https://github.com/mitraboga/Certifications/blob/main/CS50SQL%20-%20Certificate.pdf)</b> - Certified in Databases with SQL by Harvard University
 - <b>[AWS Cloud Solutions Architect](https://github.com/mitraboga/Certifications/blob/main/AWS%20Cloud%20Solutions%20Architect%20-%20Professional%20Certificate.pdf)</b> - Professional Certification on AWS
