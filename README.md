@@ -45,7 +45,7 @@
 <div align="center">
   <p align="center">
     <img src="./assets/prompt_green.svg" alt="prompt" height="40" align="middle" /><img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4500&pause=1200&color=FFFFFF&center=false&vCenter=true&width=440&lines=B.Tech+CGPA%3A+8.2%2F10.0;BAFM+GPA+(OMSAS)%3A+3.1%2F4.0"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4500&pause=1200&color=FFFFFF&center=false&vCenter=true&width=440&lines=B.Tech+CSE+CGPA%3A+8.2%2F10.0;BAFM+GPA+(OMSAS)%3A+3.1%2F4.0"
       alt="CGPA Typing SVG"
       align="middle"
     />
