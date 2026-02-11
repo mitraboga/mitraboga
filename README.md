@@ -17,7 +17,7 @@
 
   <br/>
 
-  <!-- ✅ Dynamic terminal image (stays centered) -->
+  <!-- ✅ Dynamic terminal image (LINK: https://mitraboga.github.io/terminal-gif-maker/) -->
   <div align="center">
     <img src="./assets/mitras_skills_terminal.gif" alt="About Mitra Terminal GIF" width="760" />
   </div>
