@@ -11,24 +11,15 @@
       alt="Typing SVG"
     />
   </a>
-
+  
+---
+  
   <!-- ✅ Dynamic terminal image -->
-  <!-- STEPS:
-       1) Create/download your terminal GIF (terminalgif.com)
-       2) Put it in your repo at: /assets/mitras_skills_terminal.gif
-       3) Make sure the filename matches EXACTLY (case-sensitive) -->
+  <!-- LINK:
+  -->
   <div>
     <img src="./assets/mitras_skills_terminal.gif" alt="About Mitra Terminal GIF" width="760" />
   </div>
-
-  <p>
-    <a href="https://github.com/mitraboga">GitHub</a>
-    •
-    <a href="https://www.linkedin.com/in/bogamitra/">LinkedIn</a>
-  </p>
-
-  <p><i>1% better at engineering every day.</i></p>
-
 </div>
 
 ---
@@ -74,16 +65,3 @@
 <!-- Only YOUR skills, using your friend's icon style (skillicons). No “Main skills/Studying” sections. -->
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,postgres,mysql,ts,terraform,docker,r,react,html,css,aws)](https://skillicons.dev)
 
-<!-- Optional: If your terminal GIF ever fails to load, this backup still looks good:
-```txt
-/mitra $ cat skills.py
-{
-  "categories": [
-    { "name": "Languages", "items": ["Python", "Java", "C", "TypeScript"] },
-    { "name": "Web", "items": ["React", "HTML", "CSS"] },
-    { "name": "Cloud/DevOps", "items": ["AWS", "Docker", "Terraform"] },
-    { "name": "Data", "items": ["PostgreSQL", "MySQL", "R"] }
-  ]
-}
-```
--->
