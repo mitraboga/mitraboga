@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=2EA043&center=true&vCenter=true&width=820&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=FFFFFF&center=true&vCenter=true&width=820&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
       alt="Typing SVG"
     />
   </a>
@@ -42,7 +42,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4500&pause=1200&color=2EA043&center=true&vCenter=true&width=520&lines=B.Tech+CGPA%3A+8.2%2F10.0;BAFM+GPA+(OMSAS)%3A+3.1%2F4.0"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=B.Tech+CGPA%3A+8.2%2F10.0;BAFM+GPA+(OMSAS)%3A+3.1%2F4.0"
       alt="CGPA Typing SVG"
     />
   </a>
