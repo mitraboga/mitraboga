@@ -43,7 +43,7 @@
 
 ---
 
-## 📜 Certifications
+## [📜 Certifications](https://github.com/mitraboga/Certifications)
 
 <!--
 ✅ INSTRUCTIONS:
@@ -69,24 +69,6 @@
     <td align="center">
       <a href="https://github.com/mitraboga/Certifications/blob/main/Microsoft%20Azure%20Security%20Engineer%20-%20Associate%20-%20Professional%20Certification.pdf">
         <img src="./assets/certs/azure-security.png" alt="Azure Security Engineer Associate" width="260"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mitraboga/Certifications/blob/main/CS50x%20Certificate.pdf">
-        <img src="./assets/certs/cs50x.png" alt="Harvard CS50x" width="260"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mitraboga/Certifications/blob/main/Harvard%20CS50P%20Certificate.pdf">
-        <img src="./assets/certs/cs50p.png" alt="Harvard CS50P" width="260"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mitraboga/Certifications/blob/main/CS50SQL%20-%20Certificate.pdf">
-        <img src="./assets/certs/cs50sql.png" alt="Harvard CS50SQL" width="260"/>
       </a>
     </td>
   </tr>
