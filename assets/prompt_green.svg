@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 80">
+  <style>
+    .prompt {
+      font: 900 64px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      fill: #00FF00;
+    }
+    .cursor { animation: blink 1s steps(1,end) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <text x="0" y="62" class="prompt">&gt;<tspan class="cursor">_</tspan></text>
+</svg>
