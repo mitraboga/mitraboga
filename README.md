@@ -23,7 +23,7 @@
 ---
 
 ## 🧑🏽‍💻 Projects are pinned below 📌
-- These projects encompass my learning, curiosity, and love for software, engineering, and business. (Visit repositories for more!)
+- These projects encompass my learning, curiosity, and love for software, engineering and business! (visit repositories for more!)
 
 ---
 
@@ -45,12 +45,54 @@
 
 ## 📜 Certifications
 
-- **[Harvard CS50x](https://github.com/mitraboga/Certifications/blob/main/CS50x%20Certificate.pdf)** — Certified in Computer Science Fundamentals by Harvard University
-- **[Harvard CS50P](https://github.com/mitraboga/Certifications/blob/main/Harvard%20CS50P%20Certificate.pdf)** — Certified in Programming with Python by Harvard University
-- **[Harvard CS50SQL](https://github.com/mitraboga/Certifications/blob/main/CS50SQL%20-%20Certificate.pdf)** — Certified in Databases with SQL by Harvard University
-- **[AWS Cloud Solutions Architect](https://github.com/mitraboga/Certifications/blob/main/AWS%20Cloud%20Solutions%20Architect%20-%20Professional%20Certificate.pdf)** — Professional Certification on AWS
-- **[Google Cloud DevOps Engineer](https://github.com/mitraboga/Certifications/blob/main/Google%20Cloud%20DevOps%20Engineer%20-%20Professional%20Certification.pdf)** — Professional Certification on GCP
-- **[Microsoft Azure Security Engineer Associate](https://github.com/mitraboga/Certifications/blob/main/Microsoft%20Azure%20Security%20Engineer%20-%20Associate%20-%20Professional%20Certification.pdf)** — Professional Certification on Azure Cloud
+<!--
+✅ INSTRUCTIONS:
+1) Upload 6 certificate images into your repo (recommended folder: /assets/certs/)
+2) Update the `img src` paths below to match your actual filenames
+3) Keep the <a href> pointing to the full-size file so it opens on click
+-->
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/AWS%20Cloud%20Solutions%20Architect%20-%20Professional%20Certificate.pdf">
+        <img src="./assets/certs/aws-sa-pro.png" alt="AWS Solutions Architect (Professional)" width="260"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/Google%20Cloud%20DevOps%20Engineer%20-%20Professional%20Certification.pdf">
+        <img src="./assets/certs/gcp-devops.png" alt="Google Cloud DevOps Engineer" width="260"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/Microsoft%20Azure%20Security%20Engineer%20-%20Associate%20-%20Professional%20Certification.pdf">
+        <img src="./assets/certs/azure-security.png" alt="Azure Security Engineer Associate" width="260"/>
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/CS50x%20Certificate.pdf">
+        <img src="./assets/certs/cs50x.png" alt="Harvard CS50x" width="260"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/Harvard%20CS50P%20Certificate.pdf">
+        <img src="./assets/certs/cs50p.png" alt="Harvard CS50P" width="260"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/CS50SQL%20-%20Certificate.pdf">
+        <img src="./assets/certs/cs50sql.png" alt="Harvard CS50SQL" width="260"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -60,6 +102,4 @@
 ---
 
 ## 🦾 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,postgres,mysql,oracle,mongodb,ts,terraform,docker,r,react,angular,html,css,aws,azure,gcp,kubernetes,linux,git,github,vscode,notion,discord)](https://skillicons.dev)
-- Some items you listed don’t have skillicons tags (ex: Jira, MS Suite, Replit, Raspberry Pi). If you want them visible too,
-  I can add a small second row of nice badges just for those. -->
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,react,angular,r,postgres,mysql,sqlite,mongodb,aws,azure,gcp,terraform,docker,kubernetes,linux,git,github,githubactions,vscode,matlab,replit,stackoverflow,django)](https://skillicons.dev)
