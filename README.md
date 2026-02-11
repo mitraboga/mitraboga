@@ -6,7 +6,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="./assets/prompt_green_big.svg" alt="prompt" height="64" align="middle" />
+    <img src="./assets/prompt_green.svg" alt="prompt" height="64" align="middle" />
     &nbsp;
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4500&pause=600&color=FFFFFF&center=true&vCenter=true&width=820&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
