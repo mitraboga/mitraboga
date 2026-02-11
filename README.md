@@ -43,7 +43,8 @@
 
 ---
 
-## [📜 Certifications](https://github.com/mitraboga/Certifications)
+## 📜 Certifications
+[![Open Certifications Repo](https://img.shields.io/badge/Open%20Certifications%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitraboga/Certifications)
 
 <!--
 ✅ INSTRUCTIONS:
