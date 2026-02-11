@@ -18,7 +18,7 @@
   <!-- LINK:
   -->
   <div>
-    <img src="./assets/mitras_skills_terminal.gif" alt="About Mitra Terminal GIF" width="760"/>
+    <img src="./assets/mitras_skills_terminal.gif" alt="About Mitra Terminal GIF" width="760" />
   </div>
 </div>
 
