@@ -87,7 +87,7 @@
 ---
 
 ## 📩 Recommendation Letters
-- [Professor Testimonials/Recommendation Letters](https://github.com/mitraboga/Recommendation_Letters/tree/main)
+[![Open Professor Testimonials/Recommendation Letters Repo](https://img.shields.io/badge/Open%20Professor%20Testimonials%2FRecommendation%20Letters%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitraboga/Recommendation_Letters)
 
 ---
 
