@@ -15,8 +15,6 @@
 ---
   
   <!-- ✅ Dynamic terminal image -->
-  <!-- LINK:
-  -->
   <div>
     <img src="./assets/mitras_skills_terminal.gif" alt="About Mitra Terminal GIF" width="760" />
   </div>
@@ -62,6 +60,6 @@
 ---
 
 ## 🦾 Technical Skills
-<!-- Only YOUR skills, using your friend's icon style (skillicons). No “Main skills/Studying” sections. -->
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,postgres,mysql,ts,terraform,docker,r,react,html,css,aws)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,postgres,mysql,oracle,mongodb,ts,terraform,docker,r,react,angular,html,css,aws,azure,gcp,kubernetes,linux,git,github,vscode,notion,discord)](https://skillicons.dev)
+- Some items you listed don’t have skillicons tags (ex: Jira, MS Suite, Replit, Raspberry Pi). If you want them visible too,
+  I can add a small second row of nice badges just for those. -->
