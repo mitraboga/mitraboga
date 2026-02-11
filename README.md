@@ -6,10 +6,10 @@
 
 <div align="center">
   <p align="center">
-    <img src="./assets/prompt_green.svg" alt="prompt" height="44" align="middle" />
+    <img src="./assets/prompt_green.svg" alt="prompt" height="46" align="middle" />
     &nbsp;
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=FFFFFF&center=false&vCenter=true&width=720&lines=Hello+World%2C+my+name+is+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=FFFFFF&center=false&vCenter=true&width=680&lines=Hello+World%2C+my+name+is+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
       alt="Typing SVG"
       align="middle"
     />
