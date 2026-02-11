@@ -1,16 +1,13 @@
 <!--
   Hi there 👋 I’m Mitra Boga.
   Feel free to get inspired by this README.
+  But DO NOT Copy!!!
 -->
 
 <div align="center">
-
-  <h1>Hi, I'm Mitra 👋</h1>
-
-  <!-- Dynamic “Hello, it’s …” typing banner -->
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=2EA043&center=true&vCenter=true&width=820&lines=Hello%2C+it's+Mitra+Boga;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer;Building+projects+that+mix+tech+%2B+business"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=2EA043&center=true&vCenter=true&width=820&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
       alt="Typing SVG"
     />
   </a>
@@ -33,23 +30,6 @@
   <p><i>1% better at engineering every day.</i></p>
 
 </div>
-
----
-
-## ⭐ Featured Projects
-> No external “pin card” images here (so nothing breaks). Just clean, clickable links.
-
-- **[Project 1 — Replace Repo Name](https://github.com/mitraboga/REPO_NAME_1)**  
-  One-line description of what it does + the core tech.
-
-- **[Project 2 — Replace Repo Name](https://github.com/mitraboga/REPO_NAME_2)**  
-  One-line description of what it does + the core tech.
-
-- **[Project 3 — Replace Repo Name](https://github.com/mitraboga/REPO_NAME_3)**  
-  One-line description of what it does + the core tech.
-
-- **[Project 4 — Replace Repo Name](https://github.com/mitraboga/REPO_NAME_4)**  
-  One-line description of what it does + the core tech.
 
 ---
 
