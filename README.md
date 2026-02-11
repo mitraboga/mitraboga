@@ -4,14 +4,22 @@
   But DO NOT Copy!!!
 -->
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=600&color=FFFFFF&center=true&vCenter=true&width=820&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
-    alt="Typing SVG"
-  />
-</a>
-<img src="./assets/prompt_green.svg" alt="prompt" height="28" />
-  
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right:10px; vertical-align:middle;">
+        <img src="./assets/prompt_green.svg" alt="prompt" height="42" />
+      </td>
+      <td style="vertical-align:middle;">
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=34&duration=4500&pause=600&color=FFFFFF&center=false&vCenter=true&width=640&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
+          alt="Typing SVG"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
   
   <!-- ✅ Dynamic terminal image -->
