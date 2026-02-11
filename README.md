@@ -5,25 +5,20 @@
 -->
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" border="0" style="border:none;">
-    <tr>
-      <td style="border:none; padding:0 14px 0 0; vertical-align:middle;">
-        <img src="./assets/prompt_green.svg" alt="prompt" height="58" />
-      </td>
-      <td style="border:none; padding:0; vertical-align:middle;">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4500&pause=600&color=FFFFFF&center=false&vCenter=true&width=720&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
-          alt="Typing SVG"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+  <p align="center">
+    <img src="./assets/prompt_green_big.svg" alt="prompt" height="64" align="middle" />
+    &nbsp;
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4500&pause=600&color=FFFFFF&center=true&vCenter=true&width=820&lines=Hello+World%2C+it's+Mitra+Boga✌🏼;Computer+Science+%26+Engineering+Student;Aspiring+Cloud+%2F+DevOps+Engineer💻;Building+projects+that+mix+tech+%2B+business"
+      alt="Typing SVG"
+      align="middle"
+    />
+  </p>
 
----
-  
-  <!-- ✅ Dynamic terminal image -->
-  <div>
+  <br/>
+
+  <!-- ✅ Dynamic terminal image (stays centered) -->
+  <div align="center">
     <img src="./assets/mitras_skills_terminal.gif" alt="About Mitra Terminal GIF" width="760" />
   </div>
 </div>
