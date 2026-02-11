@@ -42,8 +42,6 @@
 
 ---
 
-## 📈 CGPA
-
 <div align="center">
   <p align="center">
     <img src="./assets/prompt_green.svg" alt="prompt" height="40" align="middle" /><img
