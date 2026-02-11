@@ -11,7 +11,6 @@
       alt="Typing SVG"
     />
   </a>
-  
 ---
   
   <!-- ✅ Dynamic terminal image -->
