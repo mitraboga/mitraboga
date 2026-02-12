@@ -2,6 +2,8 @@
   Hi there 👋 I’m Mitra Boga.
   Feel free to get inspired by this README.
   But DO NOT Copy!!!
+
+  As a token of appreciation, please do Follow me!
 -->
 
 <div align="center">
