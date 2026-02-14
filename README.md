@@ -35,12 +35,10 @@
 ## 🎓 Education
 
 - **Gandhi Institute of Technology and Management — B.Tech (CSE)**
-  - Major: Computer Science Engineering
-  - Minor: Mechanical Engineering
+  - Major: Computer Science Engineering | Minor: Mechanical Engineering
 
 - **University of Waterloo — AFM**
-  - Accounting and Financial Management, Co-op
-    - Spl. Business Analysis
+  - Accounting and Financial Management, Co-op | Spl. Business Analysis
 
 ---
 
