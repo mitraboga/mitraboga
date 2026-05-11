@@ -38,7 +38,7 @@
   - Major: Computer Science Engineering | Minor: Mechanical Engineering
 
 - **University of Waterloo — AFM**
-  - Accounting and Financial Management, Co-op | Spl. Business Analysis
+  - Accounting and Financial Management, Co-op | Spl. Business Analytics
 
 ---
 
