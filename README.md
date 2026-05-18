@@ -31,7 +31,7 @@
 
 <div align="left">
 
-### Building the Next Generation of AI-Native Engineers. Stay Ahead of the Curve. ➡️<a href="https://mitraboga.github.io/MatrixTutoringAcademy/">Click Here to Join.</a>
+### Building the Next Generation of AI-Native Engineers. Stay Ahead of the Curve. ➡️<a href="https://mitraboga.github.io/MatrixTutoringAcademy/" target="_blank">Click Here to Join.</a> 
 
 Learn: `Computer Science Foundations` • `Programming` • `Web Development` • `Cloud Computing` • `Networks` • `AI-Native Building`
 
