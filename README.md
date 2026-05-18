@@ -27,17 +27,13 @@
 
 ---
 
-## 🚀 Matrix Tutoring Academy
+## 🎖️ Matrix Tutoring Academy
 
 <div align="left">
 
-### Building the Next Generation of AI-Native Engineers. Stay Ahead of the Curve.
+### Building the Next Generation of AI-Native Engineers. Stay Ahead of the Curve. Click Here to Join.
 
 Learn: `Computer Science Foundations` • `Programming` • `AI-Native Building` 
-
-<a href="https://mitraboga.github.io/MatrixTutoringAcademy/">
-  <img src="https://img.shields.io/badge/Visit%20Matrix%20Tutoring%20Academy-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
 
 </div>
 
