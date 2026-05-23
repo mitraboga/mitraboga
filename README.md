@@ -61,31 +61,40 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 
 ---
 
-## 📜 Certifications
-[![Open Certifications Repo](https://img.shields.io/badge/Open%20Certifications%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitraboga/Certifications)
-
-<!--
-✅ INSTRUCTIONS:
-1) Upload 6 certificate images into your repo (recommended folder: /assets/certs/)
-2) Update the `img src` paths below to match your actual filenames
-3) Keep the <a href> pointing to the full-size file so it opens on click
--->
-
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <a href="https://github.com/mitraboga/Certifications/blob/main/AWS%20Cloud%20Solutions%20Architect%20-%20Professional%20Certificate.pdf">
-        <img src="./assets/certs/aws-sa-pro.png" alt="AWS Solutions Architect (Professional)" width="260"/>
+    <td align="center" width="50%">
+      <a href="https://github.com/mitraboga/Certifications">
+        <img src="https://img.shields.io/badge/Certifications%20Repo-0A2342?style=for-the-badge&logo=github&logoColor=white" alt="Certifications Repo" height="42"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
+      <a href="https://github.com/mitraboga/Recommendation_Letters">
+        <img src="https://img.shields.io/badge/Recommendations%20Repo-0A2342?style=for-the-badge&logo=github&logoColor=white" alt="Recommendations Repo" height="42"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/mitraboga/Certifications/blob/main/AWS%20Cloud%20Solutions%20Architect%20-%20Professional%20Certificate.pdf">
+        <img src="./assets/certs/aws-sa-pro.png" alt="AWS Solutions Architect Professional" width="260"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/mitraboga/Certifications/blob/main/Google%20Cloud%20DevOps%20Engineer%20-%20Professional%20Certification.pdf">
         <img src="./assets/certs/gcp-devops.png" alt="Google Cloud DevOps Engineer" width="260"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/mitraboga/Certifications/blob/main/Microsoft%20Azure%20Security%20Engineer%20-%20Associate%20-%20Professional%20Certification.pdf">
         <img src="./assets/certs/azure-security.png" alt="Azure Security Engineer Associate" width="260"/>
       </a>
@@ -94,11 +103,6 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 </table>
 
 </div>
-
----
-
-## 📩 Recommendation Letters
-[![Open Professor Testimonials/Recommendation Letters Repo](https://img.shields.io/badge/Open%20Professor%20Testimonials%2FRecommendation%20Letters%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitraboga/Recommendation_Letters)
 
 ---
 
