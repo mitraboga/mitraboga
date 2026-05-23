@@ -44,10 +44,10 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 <img align="right" alt="Coding" width="185" src="./assets/uni_logos.png">
 
 - **Gandhi Institute of Technology and Management — B.Tech (CSE)**
-  - Major: Computer Science Engineering | Minor: Mechanical Engineering
+  - Major: Computer Science Engineering | Minor: Mechanical Engineering | Kalakrithi
 
 - **University of Waterloo — BAFM (Honours, AFM)**
-  - Accounting and Financial Management, Co-op | Spl. Business Analytics
+  - Accounting and Financial Management, Co-op | Spl. Business Analytics | AFSA Tax Clinic
 
 ---
 
