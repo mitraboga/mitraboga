@@ -39,9 +39,9 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 
 ---
 
-<img align="right" alt="Coding" width="320" src="./assets/education-banner.png">
-
 ## 🎓 Education
+
+<img align="right" alt="Coding" width="320" src="./assets/uni_logos.png">
 
 - **Gandhi Institute of Technology and Management — B.Tech (CSE)**
   - Major: Computer Science Engineering | Minor: Mechanical Engineering
