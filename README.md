@@ -67,17 +67,24 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mitraboga/Certifications">
-        <img src="https://img.shields.io/badge/Certifications%20Repo-0A2342?style=for-the-badge&logo=github&logoColor=white" alt="Certifications Repo" height="42"/>
+        <img 
+          src="https://img.shields.io/badge/━━━━━━━━━━%20CERTIFICATIONS%20REPO%20━━━━━━━━━━-1F6FEB?style=for-the-badge&logo=github&logoColor=white" 
+          alt="Certifications Repo"
+          height="48"
+        />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/mitraboga/Recommendation_Letters">
-        <img src="https://img.shields.io/badge/Recommendations%20Repo-0A2342?style=for-the-badge&logo=github&logoColor=white" alt="Recommendations Repo" height="42"/>
+        <img 
+          src="https://img.shields.io/badge/━━━━━━━━━━%20RECOMMENDATIONS%20REPO%20━━━━━━━━━━-1F6FEB?style=for-the-badge&logo=github&logoColor=white" 
+          alt="Recommendations Repo"
+          height="48"
+        />
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 <br/>
