@@ -55,9 +55,9 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="./assets/GITAM_Logo.png" alt="GITAM Logo" width="230"/>
+      <img src="./assets/gitam.png" alt="GITAM Logo" width="230"/>
       <br><br>
-      <img src="./assets/waterloo_logo.png" alt="University of Waterloo Logo" width="260"/>
+      <img src="./assets/waterloo.png" alt="University of Waterloo Logo" width="260"/>
     </td>
   </tr>
 </table>
