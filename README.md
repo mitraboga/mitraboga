@@ -41,11 +41,24 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 
 ## 🎓 Education
 
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+
 - **Gandhi Institute of Technology and Management — B.Tech (CSE)**
   - Major: Computer Science Engineering | Minor: Mechanical Engineering
 
 - **University of Waterloo — AFM**
   - Accounting and Financial Management, Co-op | Spl. Business Analytics
+
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/logos/gitam.png" alt="GITAM Logo" width="130"/>
+      <br><br>
+      <img src="./assets/logos/waterloo.png" alt="University of Waterloo Logo" width="150"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
