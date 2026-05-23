@@ -51,14 +51,14 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
 
 <div align="center">
 
-<table width="100%">
+<table style="width:100%;">
   <tr>
-    <td align="center" width="50%" bgcolor="#0A2342">
+    <td align="center" style="width:100%; background-color:#0A2342;">
       <a href="https://github.com/mitraboga/Certifications">
         <b><font color="white">📜 CERTIFICATIONS REPO</font></b>
       </a>
     </td>
-    <td align="center" width="50%" bgcolor="#0A2342">
+    <td align="center" style="width:100%; background-color:#0A2342;">
       <a href="https://github.com/mitraboga/Recommendation_Letters">
         <b><font color="white">📩 RECOMMENDATIONS REPO</font></b>
       </a>
