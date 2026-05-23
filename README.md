@@ -68,7 +68,7 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
     <td align="center" width="50%">
       <a href="https://github.com/mitraboga/Certifications">
         <img 
-          src="https://img.shields.io/badge/━━━━━━━━━━%20CERTIFICATIONS%20REPO%20━━━━━━━━━━-1F6FEB?style=for-the-badge&logo=github&logoColor=white" 
+          src="https://img.shields.io/badge/%20%20%20%20%20CERTIFICATIONS%20REPO%20%20%20%20%20-0A2342?style=for-the-badge&logo=github&logoColor=white" 
           alt="Certifications Repo"
           height="48"
         />
@@ -77,7 +77,7 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
     <td align="center" width="50%">
       <a href="https://github.com/mitraboga/Recommendation_Letters">
         <img 
-          src="https://img.shields.io/badge/━━━━━━━━━━%20RECOMMENDATIONS%20REPO%20━━━━━━━━━━-1F6FEB?style=for-the-badge&logo=github&logoColor=white" 
+          src="https://img.shields.io/badge/%20%20%20%20%20RECOMMENDATIONS%20REPO%20%20%20%20%20-0A2342?style=for-the-badge&logo=github&logoColor=white" 
           alt="Recommendations Repo"
           height="48"
         />
@@ -85,6 +85,11 @@ Learn: `Computer Science Foundations` • `Programming` • `Web Development` �
     </td>
   </tr>
 </table>
+
+<br/>
+
+<table width="100%">
+  
 ---
 
 <br/>
